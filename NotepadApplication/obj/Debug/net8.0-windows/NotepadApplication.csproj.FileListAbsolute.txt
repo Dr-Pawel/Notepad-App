@@ -1,0 +1,17 @@
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\bin\Debug\net8.0-windows\NotepadApplication.exe
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\bin\Debug\net8.0-windows\NotepadApplication.deps.json
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\bin\Debug\net8.0-windows\NotepadApplication.runtimeconfig.json
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\bin\Debug\net8.0-windows\NotepadApplication.dll
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\bin\Debug\net8.0-windows\NotepadApplication.pdb
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.Form1.resources
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.csproj.GenerateResource.cache
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.AssemblyInfoInputs.cache
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.AssemblyInfo.cs
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.csproj.CoreCompileInputs.cache
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.sourcelink.json
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.dll
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\refint\NotepadApplication.dll
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.pdb
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.genruntimeconfig.cache
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\ref\NotepadApplication.dll

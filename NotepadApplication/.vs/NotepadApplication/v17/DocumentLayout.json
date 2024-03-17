@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Pawe\u0142_Praca\\Repositories\\Notepad App\\NotepadApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED2F00B2-A48F-457F-BCF3-93F6B8DAB55D}|NotepadApplication.csproj|c:\\pawe\u0142_praca\\repositories\\notepad app\\notepadapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2F00B2-A48F-457F-BCF3-93F6B8DAB55D}|NotepadApplication.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED2F00B2-A48F-457F-BCF3-93F6B8DAB55D}|NotepadApplication.csproj|c:\\pawe\u0142_praca\\repositories\\notepad app\\notepadapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ED2F00B2-A48F-457F-BCF3-93F6B8DAB55D}|NotepadApplication.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Projekt]",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Pawe\u0142_Praca\\Repositories\\Notepad App\\NotepadApplication\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Pawe\u0142_Praca\\Repositories\\Notepad App\\NotepadApplication\\Form1.cs [Projekt]",
-              "RelativeToolTip": "Form1.cs [Projekt]",
+              "ToolTip": "C:\\Pawe\u0142_Praca\\Repositories\\Notepad App\\NotepadApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T23:45:03.806Z",
-              "EditorCaption": " [Projekt]"
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Pawe\u0142_Praca\\Repositories\\Notepad App\\NotepadApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Pawe\u0142_Praca\\Repositories\\Notepad App\\NotepadApplication\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAxwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:42:18.096Z",
+              "EditorCaption": ""
             }
           ]
         }
