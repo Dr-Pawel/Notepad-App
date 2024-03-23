@@ -71,27 +71,28 @@
             // newFileToolStripMenuItem
             // 
             newFileToolStripMenuItem.Name = "newFileToolStripMenuItem";
-            newFileToolStripMenuItem.Size = new Size(180, 22);
-            newFileToolStripMenuItem.Text = "New File";
+            newFileToolStripMenuItem.Size = new Size(112, 22);
+            newFileToolStripMenuItem.Text = "New";
+            newFileToolStripMenuItem.Click += newFileToolStripMenuItem_Click;
             // 
             // openToolStripMenuItem
             // 
             openToolStripMenuItem.Name = "openToolStripMenuItem";
-            openToolStripMenuItem.Size = new Size(180, 22);
+            openToolStripMenuItem.Size = new Size(112, 22);
             openToolStripMenuItem.Text = "Open";
             openToolStripMenuItem.Click += openToolStripMenuItem_Click;
             // 
             // saveToolStripMenuItem
             // 
             saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            saveToolStripMenuItem.Size = new Size(180, 22);
+            saveToolStripMenuItem.Size = new Size(112, 22);
             saveToolStripMenuItem.Text = "Save";
             saveToolStripMenuItem.Click += saveToolStripMenuItem_Click;
             // 
             // saveAsToolStripMenuItem
             // 
             saveAsToolStripMenuItem.Name = "saveAsToolStripMenuItem";
-            saveAsToolStripMenuItem.Size = new Size(180, 22);
+            saveAsToolStripMenuItem.Size = new Size(112, 22);
             saveAsToolStripMenuItem.Text = "Save as";
             // 
             // darkModeToolStripMenuItem
@@ -106,12 +107,14 @@
             onToolStripMenuItem.Name = "onToolStripMenuItem";
             onToolStripMenuItem.Size = new Size(91, 22);
             onToolStripMenuItem.Text = "On";
+            onToolStripMenuItem.Click += onToolStripMenuItem_Click;
             // 
             // offToolStripMenuItem
             // 
             offToolStripMenuItem.Name = "offToolStripMenuItem";
             offToolStripMenuItem.Size = new Size(91, 22);
             offToolStripMenuItem.Text = "Off";
+            offToolStripMenuItem.Click += offToolStripMenuItem_Click;
             // 
             // Form1
             // 

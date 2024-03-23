@@ -15,3 +15,4 @@ C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-win
 C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.pdb
 C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.genruntimeconfig.cache
 C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\ref\NotepadApplication.dll
+C:\Paweł_Praca\Repositories\Notepad App\NotepadApplication\obj\Debug\net8.0-windows\NotepadApplication.Properties.Resources.resources

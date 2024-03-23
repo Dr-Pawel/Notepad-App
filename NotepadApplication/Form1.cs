@@ -7,6 +7,9 @@ namespace NotepadApplication
         public Form1()
         {
             InitializeComponent();
+
+            onToolStripMenuItem.BackColor = Color.White;
+            offToolStripMenuItem.BackColor = Color.LightGray;
         }
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
@@ -38,6 +41,27 @@ namespace NotepadApplication
 
                 write.Dispose();
             }
+        }
+
+        private void newFileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            writingArea.Text = "";
+        }
+
+        private void onToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            writingArea.BackColor = Color.DarkGray;
+            onToolStripMenuItem.BackColor = Color.LightGray;
+            offToolStripMenuItem.BackColor = Color.White;
+
+        }
+
+        private void offToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            writingArea.BackColor = Color.White;
+            onToolStripMenuItem.BackColor = Color.White;
+            offToolStripMenuItem.BackColor = Color.LightGray;
+
         }
     }
 }
